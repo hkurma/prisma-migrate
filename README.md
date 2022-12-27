@@ -7,6 +7,12 @@ Example project for database schema migrations using [Prisma (https://www.prisma
 - Node
 - Docker
 
+### Install Dependencies
+
+```
+npm install
+```
+
 ### Environment Variables
 
 Create a .env file in the root folder and add DATABASE_URL to the file.
